@@ -1,6 +1,6 @@
 # cloudflare-warp-ubuntu-install
-Setup and execute cloudflare warp without much work.
+Setup and execute cloudflare warp without much work and without watch or sleep.
 
-After accepting the agreement presented the first run of "warp-cli register", use { watch -n 1.35 -x sh "warp-cli register && warp-cli connect && warp-cli enable-wifi && warp-cli set-mode warp+doh"
+it's purpose is to install and run. That is all. "The rest is up to you, Spider Robbinson & Jackie Lee"
 
 -- kenisi_thedevilonhigh
